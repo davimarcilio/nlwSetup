@@ -1,0 +1,9 @@
+[submodule "nlwSetupServer"]
+	path = nlwSetupServer
+	url = https://github.com/davimarcilio/nlwSetupServer
+[submodule "nlwSetupWeb"]
+	path = nlwSetupWeb
+	url = https://github.com/davimarcilio/nlwSetupWeb
+[submodule "nlwSetupMobile"]
+	path = nlwSetupMobile
+	url = https://github.com/davimarcilio/nlwSetupMobile
